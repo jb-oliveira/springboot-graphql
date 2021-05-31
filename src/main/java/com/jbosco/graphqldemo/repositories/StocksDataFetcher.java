@@ -19,7 +19,7 @@ public class StocksDataFetcher implements DataFetcher<List<StockDetails>> {
         stockDetails.setTicker("AAPL");
         stockDetails.setStockValue("127.14");
         stockDetails.setVolume("111.60M");
-        stockDetails.setPE_Ratio("37.76");
+        stockDetails.setPE_Ratio("37.75");
         stockDetails.setEPS("3.28");
         stockDetails.setDividend("0.82 (0.64%)");
         stockDetails.setMarcketCap("2.14T");
